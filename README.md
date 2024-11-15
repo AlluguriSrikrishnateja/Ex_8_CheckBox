@@ -176,8 +176,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output
-<img src="https://github.com/user-attachments/assets/9de58e1d-e8d0-4c5a-a4ad-9b7035f8e6aa" width=200>
-<img src="https://github.com/user-attachments/assets/528e69c3-1ecf-47c7-8f43-27c2374a93d9" width=200>
+<img src="https://github.com/user-attachments/assets/9de58e1d-e8d0-4c5a-a4ad-9b7035f8e6aa" width=100>
+<img src="https://github.com/user-attachments/assets/528e69c3-1ecf-47c7-8f43-27c2374a93d9" width=100>
 
 
 ## Result:
